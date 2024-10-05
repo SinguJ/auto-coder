@@ -1,7 +1,7 @@
 # AutoCoder
 
 <div align="center">
-[[EN](./README.md) | 中文]
+[<a href="./README.md">EN</a>| 中文]
 </div>
 
 ## 介绍
